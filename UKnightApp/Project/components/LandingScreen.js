@@ -1,4 +1,3 @@
-import 'jest-enzyme';
 import React from 'react';
 import {StyleSheet, Text, View, Image, TouchableWithoutFeedback} from 'react-native';
 
